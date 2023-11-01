@@ -1,4 +1,4 @@
-##Play the game [here!](https://classic-snake-game-js.netlify.app/).
+# Play the game [here!](https://classic-snake-game-js.netlify.app/)
 
 
 
